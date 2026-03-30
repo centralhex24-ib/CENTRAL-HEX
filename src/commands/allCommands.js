@@ -115,47 +115,47 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗚𝗘𝗡𝗘𝗥𝗔𝗟-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗚𝗘𝗡𝗘𝗥𝗔𝗟-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
-│ ❐➻ 𝗺𝗲𝗻𝘂 ⬡ afficher le menu
+│ ❐➻ 𝗺𝗲𝗻𝘂 ⬡ le menu
 │ ❐➻ 𝗮𝗹𝗶𝘃𝗲 ⬡ état du bot
 │ ❐➻ 𝗱𝗲𝘃 ⬡ développeur
-│ ❐➻ 𝗮𝗹𝗹𝘃𝗮𝗿 ⬡ toutes les variables
+│ ❐➻ 𝗮𝗹𝗹𝘃𝗮𝗿 ⬡ variables
 │ ❐➻ 𝗽𝗶𝗻𝗴 ⬡ vitesse du bot
 │ ❐➻ 𝗼𝘄𝗻𝗲𝗿 ⬡ propriétaire
 │ ❐➻ 𝘀𝘁𝗮𝘁𝘀 ⬡ statistiques
-│ ❐➻ 𝘂𝗽𝘁𝗶𝗺𝗲 ⬡ temps de fonctionnement
-│ ❐➻ 𝗶𝗻𝗳𝗼 ⬡ informations bot
-│ ❐➻ 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 ⬡ support technique
+│ ❐➻ 𝘂𝗽𝘁𝗶𝗺𝗲 ⬡ temps d
+│ ❐➻ 𝗶𝗻𝗳𝗼 ⬡ informations
+│ ❐➻ 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 ⬡ technique
 ┗━━━━━━━━━━━━━━━━━┛
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗢𝗪𝗡𝗘𝗥-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗢𝗪𝗡𝗘𝗥-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
-│ ❐➻ 𝗷𝗼𝗶𝗻 ⬡ rejoindre un groupe
-│ ❐➻ 𝗹𝗲𝗮𝘃𝗲 ⬡ quitter un groupe
+│ ❐➻ 𝗷𝗼𝗶𝗻 ⬡ rejoindre un grp
+│ ❐➻ 𝗹𝗲𝗮𝘃𝗲 ⬡ quitter un grp
 │ ❐➻ 𝗮𝗻𝘁𝗶𝗱𝗲𝗹𝗲𝘁𝗲 ⬡ anti-suppression
 │ ❐➻ 𝘂𝗽𝗹𝗼𝗮𝗱 ⬡ téléverser fichier
 │ ❐➻ 𝘃𝘃 ⬡ voir message unique
-│ ❐➻ 𝗮𝗹𝗹𝗰𝗺𝗱𝘀 ⬡ toutes les commandes
+│ ❐➻ 𝗮𝗹𝗹𝗰𝗺𝗱𝘀 ⬡ toutes les cmmd
 │ ❐➻ 𝗱𝗲𝗹𝗲𝘁𝗲 ⬡ supprimer message
 │ ❐➻ 𝗿𝗲𝗽𝗼 ⬡ dépôt GitHub
-│ ❐➻ 𝗯𝗿𝗼𝗮𝗱𝗰𝗮𝘀𝘁 ⬡ message broadcast
+│ ❐➻ 𝗯𝗿𝗼𝗮𝗱𝗰𝗮𝘀𝘁 ⬡ message brdc
 │ ❐➻ 𝘀𝗲𝘁𝗽𝗽 ⬡ changer photo profil
 │ ❐➻ 𝘀𝗲𝘁𝗻𝗮𝗺𝗲 ⬡ changer nom bot
 │ ❐➻ 𝘀𝗲𝘁𝗯𝗶𝗼 ⬡ changer bio
-│ ❐➻ 𝗯𝗹𝗼𝗰𝗸 ⬡ bloquer utilisateur
-│ ❐➻ 𝘂𝗻𝗯𝗹𝗼𝗰𝗸 ⬡ débloquer utilisateur
+│ ❐➻ 𝗯𝗹𝗼𝗰𝗸 ⬡ bloquer utls
+│ ❐➻ 𝘂𝗻𝗯𝗹𝗼𝗰𝗸 ⬡ débloquer utls
 │ ❐➻ 𝘀𝗲𝗹𝗳 ⬡ mode privé
 │ ❐➻ 𝗽𝘂𝗯𝗹𝗶𝗰 ⬡ mode public
-│ ❐➻ 𝗿𝗲𝗮𝗱𝗮𝗹𝗹 ⬡ marquer tout comme lu
+│ ❐➻ 𝗿𝗲𝗮𝗱𝗮𝗹𝗹 ⬡ marquer lu
 │ ❐➻ 𝗻𝗶𝗻𝗷𝗮 ⬡ mode ninja
 ┗━━━━━━━━━━━━━━━━━┛
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗜𝗔-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗜𝗔-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝗮𝗶 ⬡ intelligence artificielle
 │ ❐➻ 𝗴𝗽𝘁 ⬡ ChatGPT
@@ -176,7 +176,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗖𝗢𝗡𝗩𝗘𝗥𝗧𝗜𝗦𝗦𝗘𝗨𝗥-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗖𝗢𝗡𝗩𝗘𝗥𝗧𝗜𝗦𝗦𝗘𝗨𝗥-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝗮𝘁𝘁𝗽 ⬡ texte en sticker animé
 │ ❐➻ 𝘁𝗼𝗶𝗺𝗮𝗴𝗲 ⬡ sticker en image
@@ -197,7 +197,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗥𝗘𝗖𝗛𝗘𝗥𝗖𝗛𝗘-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗥𝗘𝗖𝗛𝗘𝗥𝗖𝗛𝗘-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝗴𝗼𝗼𝗴𝗹𝗲 ⬡ recherche Google
 │ ❐➻ 𝗽𝗹𝗮𝘆 ⬡ recherche musique
@@ -223,7 +223,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗗𝗜𝗩𝗘𝗥𝗧𝗜𝗦𝗦𝗘𝗠𝗘𝗡𝗧-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗗𝗜𝗩𝗘𝗥𝗧𝗜𝗦𝗦𝗘𝗠𝗘𝗡𝗧-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝗴𝗲𝘁𝗽𝗽 ⬡ photo de profil
 │ ❐➻ 𝗴𝗼𝗼𝗱𝗻𝗶𝗴𝗵𝘁 ⬡ bonne nuit
@@ -249,7 +249,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗚𝗥𝗢𝗨𝗣𝗘𝗦-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗚𝗥𝗢𝗨𝗣𝗘𝗦-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝗸𝗶𝗰𝗸𝗮𝗹𝗹 ⬡ exclure tous
 │ ❐➻ 𝘁𝗮𝗴𝗮𝗱𝗺𝗶𝗻 ⬡ mention admins
@@ -280,7 +280,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗥𝗘́𝗔𝗖𝗧𝗜𝗢𝗡𝗦-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗥𝗘́𝗔𝗖𝗧𝗜𝗢𝗡𝗦-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝘆𝗲𝗲𝘁 ⬡ jeter
 │ ❐➻ 𝘀𝗹𝗮𝗽 ⬡ gifler
@@ -300,7 +300,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗧𝗘́𝗟𝗘́𝗖𝗛𝗔𝗥𝗚𝗘𝗠𝗘𝗡𝗧-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗧𝗘́𝗟𝗘́𝗖𝗛𝗔𝗥𝗚𝗘𝗠𝗘𝗡𝗧-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝘆𝘁𝗺𝗽𝟯 ⬡ YouTube MP3
 │ ❐➻ 𝘆𝘁𝗺𝗽𝟰 ⬡ YouTube MP4
@@ -320,7 +320,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗢𝗨𝗧𝗜𝗟𝗦-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗢𝗨𝗧𝗜𝗟𝗦-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝘁𝗿𝗮𝗱𝘂𝗶𝗿𝗲 ⬡ traduction
 │ ❐➻ 𝘄𝗲𝗮𝘁𝗵𝗲𝗿 ⬡ météo
@@ -346,7 +346,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗝𝗘𝗨𝗫-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗝𝗘𝗨𝗫-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝘁𝗶𝗰𝘁𝗮𝗰𝘁𝗼𝗲 ⬡ morpion
 │ ❐➻ 𝗽𝗱𝗿 ⬡ pierre feuille ciseaux
@@ -367,7 +367,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗠𝗘𝗗𝗜𝗔-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗠𝗘𝗗𝗜𝗔-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝗯𝗹𝘂𝗿 ⬡ flouter image
 │ ❐➻ 𝘀𝗵𝗮𝗿𝗽𝗲𝗻 ⬡ améliorer netteté
@@ -388,7 +388,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗜𝗡𝗙𝗢-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗜𝗡𝗙𝗢-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝗰𝗼𝘃𝗶𝗱 ⬡ stats COVID-19
 │ ❐➻ 𝗻𝗲𝘄𝘀 ⬡ actualités
@@ -404,7 +404,7 @@ const commands = {
 
 ━━◆ *𝗜𝗕-𝗛𝗘𝗫-𝗕𝗢𝗧* ◆━━┓
 │
- │││𝗨𝗧𝗜𝗟𝗜𝗧𝗬-𝗛𝗘𝗫-𝗕𝗢𝗧│││
+│││𝗨𝗧𝗜𝗟𝗜𝗧𝗬-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝗰𝗮𝗹𝗰 ⬡ calcul rapide
 │ ❐➻ 𝘁𝗶𝗺𝗲𝗿 ⬡ minuteur
