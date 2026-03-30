@@ -157,7 +157,7 @@ const commands = {
 │
 │││𝗜𝗔-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
-│ ❐➻ 𝗮𝗶 ⬡ intelligence artificielle
+│ ❐➻ 𝗮𝗶 ⬡ intelligence ai
 │ ❐➻ 𝗴𝗽𝘁 ⬡ ChatGPT
 │ ❐➻ 𝗴𝗲𝗺𝗶𝗻𝗶 ⬡ IA Gemini
 │ ❐➻ 𝗯𝗮𝗿𝗱 ⬡ Google Bard
@@ -178,7 +178,7 @@ const commands = {
 │
 │││𝗖𝗢𝗡𝗩𝗘𝗥𝗧𝗜𝗦𝗦𝗘𝗨𝗥-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
-│ ❐➻ 𝗮𝘁𝘁𝗽 ⬡ texte en sticker animé
+│ ❐➻ 𝗮𝘁𝘁𝗽 ⬡ texte sticker animé
 │ ❐➻ 𝘁𝗼𝗶𝗺𝗮𝗴𝗲 ⬡ sticker en image
 │ ❐➻ 𝗴𝗶𝗺𝗮𝗴𝗲 ⬡ image Google
 │ ❐➻ 𝗺𝗽𝟯 ⬡ convertir en MP3
@@ -199,19 +199,19 @@ const commands = {
 │
 │││𝗥𝗘𝗖𝗛𝗘𝗥𝗖𝗛𝗘-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
-│ ❐➻ 𝗴𝗼𝗼𝗴𝗹𝗲 ⬡ recherche Google
-│ ❐➻ 𝗽𝗹𝗮𝘆 ⬡ recherche musique
-│ ❐➻ 𝘃𝗶𝗱𝗲𝗼 ⬡ recherche vidéo
-│ ❐➻ 𝘀𝗼𝗻𝗴 ⬡ recherche chanson
+│ ❐➻ 𝗴𝗼𝗼𝗴𝗹𝗲 ⬡ rchrch Google
+│ ❐➻ 𝗽𝗹𝗮𝘆 ⬡ rchrch musique
+│ ❐➻ 𝘃𝗶𝗱𝗲𝗼 ⬡ rchrch vidéo
+│ ❐➻ 𝘀𝗼𝗻𝗴 ⬡ rchrch chanson
 │ ❐➻ 𝗺𝗲𝗱𝗶𝗮𝗳𝗶𝗿𝗲 ⬡ MediaFire
-│ ❐➻ 𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸 ⬡ recherche Facebook
-│ ❐➻ 𝗶𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 ⬡ recherche Instagram
-│ ❐➻ 𝘁𝗶𝗸𝘁𝗼𝗸 ⬡ recherche TikTok
-│ ❐➻ 𝗹𝘆𝗿𝗶𝗰𝘀 ⬡ paroles chanson
-│ ❐➻ 𝗶𝗺𝗮𝗴𝗲 ⬡ recherche images
+│ ❐➻ 𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸 ⬡ rchrch Facebook
+│ ❐➻ 𝗶𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 ⬡ rchrch Instagram
+│ ❐➻ 𝘁𝗶𝗸𝘁𝗼𝗸 ⬡ rchrch TikTok
+│ ❐➻ 𝗹𝘆𝗿𝗶𝗰𝘀 ⬡ rchrch chanson
+│ ❐➻ 𝗶𝗺𝗮𝗴𝗲 ⬡ rchrch images
 │ ❐➻ 𝗽𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 ⬡ Pinterest
 │ ❐➻ 𝘆𝗼𝘂𝘁𝘂𝗯𝗲 ⬡ YouTube
-│ ❐➻ 𝘁𝘄𝗶𝘁𝘁𝗲𝗿𝘀𝗲𝗮𝗿𝗰𝗵 ⬡ recherche Twitter
+│ ❐➻ 𝘁𝘄𝗶𝘁𝘁𝗲𝗿𝘀𝗲𝗮𝗿𝗰𝗵 ⬡ rchrch Twitter
 │ ❐➻ 𝘀𝗽𝗼𝘁𝗶𝗳𝘆 ⬡ Spotify
 │ ❐➻ 𝗮𝗽𝗽𝗹𝗲𝗺𝘂𝘀𝗶𝗰 ⬡ Apple Music
 │ ❐➻ 𝘀𝗼𝘂𝗻𝗱𝗰𝗹𝗼𝘂𝗱 ⬡ SoundCloud
@@ -256,8 +256,8 @@ const commands = {
 │ ❐➻ 𝗮𝗰𝗰𝗲𝗽𝘁𝗮𝗹𝗹 ⬡ accepter tous
 │ ❐➻ 𝘁𝗮𝗴𝗮𝗹𝗹 ⬡ mentionner tous
 │ ❐➻ 𝗴𝗲𝘁𝗮𝗹𝗹 ⬡ liste membres
-│ ❐➻ 𝗴𝗿𝗼𝘂𝗽𝗰𝗹𝗼𝘀𝗲 ⬡ fermer groupe
-│ ❐➻ 𝗴𝗿𝗼𝘂𝗽𝗼𝗽𝗲𝗻 ⬡ ouvrir groupe
+│ ❐➻ 𝗴𝗿𝗼𝘂𝗽𝗰𝗹𝗼𝘀𝗲 ⬡ fermer grp
+│ ❐➻ 𝗴𝗿𝗼𝘂𝗽𝗼𝗽𝗲𝗻 ⬡ ouvrir grp
 │ ❐➻ 𝗮𝗱𝗱 ⬡ ajouter membre
 │ ❐➻ 𝘃𝗰𝗳 ⬡ contacts VCF
 │ ❐➻ 𝗹𝗶𝗻𝗸𝗴𝗰 ⬡ lien groupe
@@ -270,9 +270,9 @@ const commands = {
 │ ❐➻ 𝗱𝗲𝗺𝗼𝘁𝗲 ⬡ retirer admin
 │ ❐➻ 𝗸𝗶𝗰𝗸 ⬡ expulser membre
 │ ❐➻ 𝘄𝗮𝗿𝗻 ⬡ avertir membre
-│ ❐➻ 𝘂𝗻𝘄𝗮𝗿𝗻 ⬡ retirer avertissement
-│ ❐➻ 𝘄𝗮𝗿𝗻𝗶𝗻𝗴𝘀 ⬡ voir avertissements
-│ ❐➻ 𝘀𝗲𝘁𝘀𝘂𝗯𝗷𝗲𝗰𝘁 ⬡ changer nom groupe
+│ ❐➻ 𝘂𝗻𝘄𝗮𝗿𝗻 ⬡ retirer avtrm
+│ ❐➻ 𝘄𝗮𝗿𝗻𝗶𝗻𝗴𝘀 ⬡ voir avtrm
+│ ❐➻ 𝘀𝗲𝘁𝘀𝘂𝗯𝗷𝗲𝗰𝘁 ⬡ changer nom grp
 │ ❐➻ 𝗿𝗲𝘃𝗼𝗸𝗲 ⬡ révoquer lien
 │ ❐➻ 𝗶𝗻𝘃𝗶𝘁𝗲 ⬡ inviter membre
 │ ❐➻ 𝗽𝗼𝗹𝗹𝟮 ⬡ sondage groupe
@@ -334,7 +334,7 @@ const commands = {
 │ ❐➻ 𝗯𝗶𝗻𝗮𝗿𝘆 ⬡ binaire
 │ ❐➻ 𝗵𝗲𝘅 ⬡ hexadécimal
 │ ❐➻ 𝗿𝗴𝗯 ⬡ couleur RGB
-│ ❐➻ 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱 ⬡ générer mot de passe
+│ ❐➻ 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱 ⬡ générer mdp
 │ ❐➻ 𝘂𝘂𝗶𝗱 ⬡ générer UUID
 │ ❐➻ 𝗵𝗮𝘀𝗵 ⬡ hacher texte
 │ ❐➻ 𝗰𝗼𝗺𝗽𝗿𝗲𝘀𝘀 ⬡ compresser texte
@@ -349,7 +349,7 @@ const commands = {
 │││𝗝𝗘𝗨𝗫-𝗛𝗘𝗫-𝗕𝗢𝗧
 │
 │ ❐➻ 𝘁𝗶𝗰𝘁𝗮𝗰𝘁𝗼𝗲 ⬡ morpion
-│ ❐➻ 𝗽𝗱𝗿 ⬡ pierre feuille ciseaux
+│ ❐➻ 𝗽𝗱𝗿 ⬡ pierre feuille 
 │ ❐➻ 𝘀𝘂𝗱𝗼𝗸𝘂 ⬡ sudoku
 │ ❐➻ 𝗾𝘂𝗶𝘇 ⬡ quiz culture
 │ ❐➻ 𝘁𝗿𝘂𝘁𝗵𝟮 ⬡ vérité avancé
