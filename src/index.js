@@ -52,7 +52,7 @@ async function startBot() {
         logger: pino({ level: 'silent' }),
         printQRInTerminal: false,
         auth: state,
-        browser: ['IB-HEX-BOT', 'Chrome', '1.0.0']
+        browser: ['CENTRAL-HEX', 'Chrome', '1.0.0']
     });
 
     sock.ev.on('connection.update', async (update) => {
