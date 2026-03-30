@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.ibb.co/fYbBRWyy/IMG-20260210-WA0152.jpg" width="700" style="border-radius: 20px; box-shadow: 0 0 20px #e53935; animation: pulse 2s infinite;">
+  <img src="[https://i.ibb.co/fYbBRWyy/IMG-20260210-WA0152.jpg](https://h.uguu.se/uZvwPpnm.jpg)" width="700" style="border-radius: 20px; box-shadow: 0 0 20px #e53935; animation: pulse 2s infinite;">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=🥷+IB-HEX-BOT+🥷;Bot+WhatsApp+Avancé;200+Commandes;Développé+par+Ibrahima+Sory+Sacko" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=🥷+CENTRAL-HEX +🥷;Bot+WhatsApp+Avancé;200+Commandes;Développé+par+Ibrahima+Sory+Sacko" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -20,19 +20,7 @@
 <div align="center">
 
 | Catégorie | Commandes | Description |
-|:---------:|:---------:|:-----------:|
-| 🤖 **IA** | 15 | ChatGPT, Gemini, Claude |
-| 👑 **Owner** | 21 | Commandes propriétaire |
-| 🎵 **Download** | 14 | YouTube, TikTok, Insta |
-| 👥 **Groupes** | 25 | Gestion complète |
-| 🎮 **Jeux** | 15 | Morpion, Casino, Quiz |
-| 🛠️ **Outils** | 19 | Convertisseurs, Utils |
-| 🎭 **Fun** | 20 | Divertissement |
-| 🔍 **Recherche** | 19 | Google, Wiki, etc |
 
-</div>
-
----
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=4CAF50&center=false&vCenter=true&width=300&lines=🚀+Déploiement" alt="Deploy" />
 
