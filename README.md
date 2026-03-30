@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=🥷+CENTRAL-HEX +🥷;Bot+WhatsApp+Avancé;200+Commandes;Développé+par+Ibrahima+Sory+Sacko" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=🥷+CENTRAL+HEX +🥷;Bot+WhatsApp+Avancé;229+Commandes;Développé+par+Ibrahima+Sory+Sacko" alt="Typing SVG" />
 </h1>
 
 <p align="center">
